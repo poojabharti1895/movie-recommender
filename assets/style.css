@@ -1,0 +1,12 @@
+body {
+    background-color: #141414;
+    color: white;
+}
+
+.movie-card {
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+.movie-card:hover {
+    transform: scale(1.05);
+}
